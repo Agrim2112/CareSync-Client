@@ -1,0 +1,1 @@
+ D:\\Flutter\ Projects\\CareSync\\.dart_tool\\flutter_build\\b4cd23d2d0f84f9b42b37e6322b9a3b5\\native_assets.yaml: 

@@ -1,0 +1,28 @@
+com.example.caresync.app-jetified-lifecycle-process-2.7.0-0 C:\Users\agrim\.gradle\caches\transforms-3\09575357a50eebe6c9e17e9b9ab6c62a\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.caresync.app-jetified-profileinstaller-1.3.1-1 C:\Users\agrim\.gradle\caches\transforms-3\175c022d96f671bcb96b62c32eddce9b\transformed\jetified-profileinstaller-1.3.1\res
+com.example.caresync.app-jetified-lifecycle-livedata-core-ktx-2.7.0-2 C:\Users\agrim\.gradle\caches\transforms-3\18107d786d8faa5082d2d5d4c7afe244\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.caresync.app-jetified-activity-1.8.1-3 C:\Users\agrim\.gradle\caches\transforms-3\198fd5117ce37711e4fbd99d99ad9005\transformed\jetified-activity-1.8.1\res
+com.example.caresync.app-core-runtime-2.2.0-4 C:\Users\agrim\.gradle\caches\transforms-3\24584b3373db5cce18cade09d17235db\transformed\core-runtime-2.2.0\res
+com.example.caresync.app-lifecycle-livedata-core-2.7.0-5 C:\Users\agrim\.gradle\caches\transforms-3\289738296b18418a87c378d8a8289a45\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.caresync.app-lifecycle-viewmodel-2.7.0-6 C:\Users\agrim\.gradle\caches\transforms-3\5930f120c046973b3f85c1b552127533\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.caresync.app-jetified-tracing-1.2.0-7 C:\Users\agrim\.gradle\caches\transforms-3\5a5a3f60334f077e070c73315b9b2f12\transformed\jetified-tracing-1.2.0\res
+com.example.caresync.app-jetified-window-1.2.0-8 C:\Users\agrim\.gradle\caches\transforms-3\65d2fd646b32844fed076a894aee5434\transformed\jetified-window-1.2.0\res
+com.example.caresync.app-jetified-savedstate-1.2.1-9 C:\Users\agrim\.gradle\caches\transforms-3\6aa22f840b3d806473aabc87e9058c71\transformed\jetified-savedstate-1.2.1\res
+com.example.caresync.app-jetified-startup-runtime-1.1.1-10 C:\Users\agrim\.gradle\caches\transforms-3\7786147cb95cf4b58392c51f16093689\transformed\jetified-startup-runtime-1.1.1\res
+com.example.caresync.app-fragment-1.7.1-11 C:\Users\agrim\.gradle\caches\transforms-3\85feee994ea35f4a460b454617ab1ddb\transformed\fragment-1.7.1\res
+com.example.caresync.app-core-1.13.1-12 C:\Users\agrim\.gradle\caches\transforms-3\90eeb667da0f7a66ebda848bd11f886d\transformed\core-1.13.1\res
+com.example.caresync.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 C:\Users\agrim\.gradle\caches\transforms-3\af503cfcda21e124872dc29e9c92a10c\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.caresync.app-jetified-annotation-experimental-1.4.0-14 C:\Users\agrim\.gradle\caches\transforms-3\bbd7adf60d0ec33a63ccd66b4c597403\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.caresync.app-jetified-core-1.0.0-15 C:\Users\agrim\.gradle\caches\transforms-3\c9d647a3147d24429946fb1cf53aac93\transformed\jetified-core-1.0.0\res
+com.example.caresync.app-jetified-window-java-1.2.0-16 C:\Users\agrim\.gradle\caches\transforms-3\d34685aa3124e3f7d77647ab4c3640b9\transformed\jetified-window-java-1.2.0\res
+com.example.caresync.app-jetified-core-ktx-1.13.1-17 C:\Users\agrim\.gradle\caches\transforms-3\e5c56b1c96453c70547e3924a9efa7a7\transformed\jetified-core-ktx-1.13.1\res
+com.example.caresync.app-lifecycle-runtime-2.7.0-18 C:\Users\agrim\.gradle\caches\transforms-3\ea8ec0234b2dcb95b2fedd81f1aa9ea6\transformed\lifecycle-runtime-2.7.0\res
+com.example.caresync.app-lifecycle-livedata-2.7.0-19 C:\Users\agrim\.gradle\caches\transforms-3\f631d6bc8f224f188962ef6e1b2a9b6d\transformed\lifecycle-livedata-2.7.0\res
+com.example.caresync.app-debug-20 D:\Flutter Projects\CareSync\android\app\src\debug\res
+com.example.caresync.app-main-21 D:\Flutter Projects\CareSync\android\app\src\main\res
+com.example.caresync.app-pngs-22 D:\Flutter Projects\CareSync\build\app\generated\res\pngs\debug
+com.example.caresync.app-resValues-23 D:\Flutter Projects\CareSync\build\app\generated\res\resValues\debug
+com.example.caresync.app-packageDebugResources-24 D:\Flutter Projects\CareSync\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.caresync.app-packageDebugResources-25 D:\Flutter Projects\CareSync\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.caresync.app-merged_res-26 D:\Flutter Projects\CareSync\build\app\intermediates\merged_res\debug
+com.example.caresync.app-packaged_res-27 D:\Flutter Projects\CareSync\build\path_provider_android\intermediates\packaged_res\debug
